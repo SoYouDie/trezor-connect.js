@@ -1,0 +1,15 @@
+{
+  "name": "trezor-connect.js",
+  "version": "1.0.0",
+  "description": "Fork of https://github.com/trezor/connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "trezor",
+    "connect"
+  ],
+  "author": "Roman Boiko",
+  "license": "ISC"
+}
